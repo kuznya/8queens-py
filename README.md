@@ -1,2 +1,2 @@
 # math-8queens-py
-8 queens issue
+Short 8 queens problem solution. Python.
